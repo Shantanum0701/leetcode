@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shantanum0701/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shantanum0701/leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Shantanum0701/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Shantanum0701/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
