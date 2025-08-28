@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shantanum0701/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shantanum0701/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shantanum0701/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Shantanum0701/leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Shantanum0701/leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Shantanum0701/leetcode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
