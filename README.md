@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shantanum0701/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Shantanum0701/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shantanum0701/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shantanum0701/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shantanum0701/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shantanum0701/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Shantanum0701/leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Shantanum0701/leetcode/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shantanum0701/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shantanum0701/leetcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
