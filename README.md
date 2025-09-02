@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shantanum0701/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shantanum0701/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shantanum0701/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shantanum0701/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
