@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shantanum0701/leetcode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Shantanum0701/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Shantanum0701/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Shantanum0701/leetcode/tree/master/0812-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shantanum0701/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Shantanum0701/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
