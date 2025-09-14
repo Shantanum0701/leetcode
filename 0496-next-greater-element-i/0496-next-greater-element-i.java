@@ -1,32 +1,30 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n2 = nums2.length;
-        int[] ans = new int[n2];   // Stores next greater for each index in nums2
-        Stack<Integer> stack = new Stack<>();
+        int result[] = new int[nums1.length];
 
-        // Step 1: Precompute next greater elements for nums2
-        for (int i = n2 - 1; i >= 0; i--) {
-            // Remove elements smaller than or equal to current
-            while (!stack.isEmpty() && nums2[i] > stack.peek()) {
-                stack.pop();
+        //finding nextGreater for nums2
+        int nextGreater[] = new int[nums2.length];
+        Stack<Integer> s = new Stack<>();
+        for(int i=nums2.length-1; i>=0; i--){
+            while(!s.isEmpty() && nums2[i] >= nums2[s.peek()]){
+                s.pop();
             }
-            // Set next greater if exists
-            ans[i] = stack.isEmpty() ? -1 : stack.peek();
-            // Push current element to stack
-            stack.push(nums2[i]);
+            if(s.isEmpty()){
+                nextGreater[i] = -1;
+            }else{
+                nextGreater[i] = nums2[s.peek()];
+            }
+            s.push(i);
         }
 
-        // Step 2: Map nums1 values to their next greater values in nums2
-        int[] res = new int[nums1.length];
-        for (int i = 0; i < nums1.length; i++) {
-            for (int j = 0; j < n2; j++) {
-                if (nums2[j] == nums1[i]) {
-                    res[i] = ans[j];
-                    break;
-                }
-            }
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i=0; i<nextGreater.length; i++){
+            map.put(nums2[i],nextGreater[i]);
         }
 
-        return res;
+        for(int i=0; i<nums1.length; i++){
+            result[i] = map.get(nums1[i]);
+        }
+        return result;
     }
 }
