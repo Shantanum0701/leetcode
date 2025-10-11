@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanum0701/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shantanum0701/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shantanum0701/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Shantanum0701/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanum0701/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shantanum0701/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shantanum0701/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Shantanum0701/leetcode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shantanum0701/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Shantanum0701/leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -218,9 +222,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanum0701/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanum0701/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
