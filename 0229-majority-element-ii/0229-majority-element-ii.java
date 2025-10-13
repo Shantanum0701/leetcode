@@ -1,16 +1,16 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+        Map<Integer, Integer> map = new HashMap<>();
         List<Integer> ans = new ArrayList<>();
         int n = nums.length;
 
-        for (int i = 0; i < n; i++) {
-            int count = 0;
-            for (int j = 0; j < n; j++) {
-                if (nums[i] == nums[j]) count++;
-            }
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
 
-            if (count > n / 3 && !ans.contains(nums[i])) {
-                ans.add(nums[i]);
+        for (int key : map.keySet()) {
+            if (map.get(key) > n / 3) {
+                ans.add(key);
             }
         }
 
