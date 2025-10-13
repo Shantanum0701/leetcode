@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanum0701/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shantanum0701/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Shantanum0701/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shantanum0701/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shantanum0701/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanum0701/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shantanum0701/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shantanum0701/leetcode/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shantanum0701/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanum0701/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Union Find
