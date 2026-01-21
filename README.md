@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Shantanum0701/leetcode/tree/master/0812-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Shantanum0701/leetcode/tree/master/0917-reverse-only-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Shantanum0701/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
