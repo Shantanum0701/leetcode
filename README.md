@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shantanum0701/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shantanum0701/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1528-shuffle-string](https://github.com/Shantanum0701/leetcode/tree/master/1528-shuffle-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Shantanum0701/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Shantanum0701/leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/Shantanum0701/leetcode/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/Shantanum0701/leetcode/tree/master/1528-shuffle-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1859-sorting-the-sentence](https://github.com/Shantanum0701/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
