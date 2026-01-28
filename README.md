@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Shantanum0701/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shantanum0701/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1480-running-sum-of-1d-array](https://github.com/Shantanum0701/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Shantanum0701/leetcode/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/Shantanum0701/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanum0701/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Shantanum0701/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
 | ------- |
