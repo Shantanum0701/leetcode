@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shantanum0701/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shantanum0701/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Shantanum0701/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Shantanum0701/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shantanum0701/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Shantanum0701/leetcode/tree/master/1528-shuffle-string) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Shantanum0701/leetcode/tree/master/0415-add-strings) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Shantanum0701/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Shantanum0701/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Counting Sort
 |  |
