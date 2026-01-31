@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shantanum0701/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanum0701/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shantanum0701/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/Shantanum0701/leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Shantanum0701/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Shantanum0701/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shantanum0701/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shantanum0701/leetcode/tree/master/0036-valid-sudoku) |
+| [0867-transpose-matrix](https://github.com/Shantanum0701/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Shantanum0701/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Geometry
 |  |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Shantanum0701/leetcode/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/Shantanum0701/leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Shantanum0701/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Shantanum0701/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Counting Sort
