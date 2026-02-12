@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Shantanum0701/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Shantanum0701/leetcode/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shantanum0701/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/Shantanum0701/leetcode/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanum0701/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Shantanum0701/leetcode/tree/master/0888-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shantanum0701/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shantanum0701/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanum0701/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0754-reach-a-number](https://github.com/Shantanum0701/leetcode/tree/master/0754-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/Shantanum0701/leetcode/tree/master/1013-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Shantanum0701/leetcode/tree/master/1037-valid-boomerang) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shantanum0701/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
