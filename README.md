@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Shantanum0701/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Shantanum0701/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Shantanum0701/leetcode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Shantanum0701/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shantanum0701/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shantanum0701/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/Shantanum0701/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Merge Sort
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shantanum0701/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shantanum0701/leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Shantanum0701/leetcode/tree/master/0888-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Shantanum0701/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shantanum0701/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Shantanum0701/leetcode/tree/master/1854-maximum-population-year) |
 ## Math
 |  |
@@ -360,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shantanum0701/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Shantanum0701/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
