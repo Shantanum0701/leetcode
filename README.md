@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Shantanum0701/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shantanum0701/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Shantanum0701/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/Shantanum0701/leetcode/tree/master/1037-valid-boomerang) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Shantanum0701/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Shantanum0701/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shantanum0701/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/Shantanum0701/leetcode/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shantanum0701/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shantanum0701/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Shantanum0701/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shantanum0701/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
