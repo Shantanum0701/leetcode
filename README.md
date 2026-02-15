@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Shantanum0701/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shantanum0701/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shantanum0701/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Shantanum0701/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/Shantanum0701/leetcode/tree/master/1037-valid-boomerang) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Shantanum0701/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Shantanum0701/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Shantanum0701/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Shantanum0701/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Shantanum0701/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shantanum0701/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Shantanum0701/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanum0701/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Shantanum0701/leetcode/tree/master/0754-reach-a-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Shantanum0701/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/Shantanum0701/leetcode/tree/master/1013-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Shantanum0701/leetcode/tree/master/1037-valid-boomerang) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shantanum0701/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shantanum0701/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Shantanum0701/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0976-largest-perimeter-triangle](https://github.com/Shantanum0701/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
