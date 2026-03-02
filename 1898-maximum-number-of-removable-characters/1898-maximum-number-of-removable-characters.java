@@ -15,7 +15,7 @@ class Solution {
             }
         }
         return ans;
-    } // ✅ method closed properly
+    } 
 
     private boolean isSubsequenceAfterRemoval(
             String s, String p, int[] removable, int k) {
