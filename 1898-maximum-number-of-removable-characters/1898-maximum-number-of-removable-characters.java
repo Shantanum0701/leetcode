@@ -1,4 +1,5 @@
 class Solution {
+
     public int maximumRemovals(String s, String p, int[] removable) {
         int left = 0, right = removable.length;
         int ans = 0;
@@ -7,14 +8,14 @@ class Solution {
             int mid = left + (right - left) / 2;
 
             if (isSubsequenceAfterRemoval(s, p, removable, mid)) {
-                ans = mid;          // mid is possible
-                left = mid + 1;     // try more removals
+                ans = mid;
+                left = mid + 1;
             } else {
-                right = mid - 1;    // too many removals
+                right = mid - 1;
             }
         }
         return ans;
-    }
+    } // ✅ method closed properly
 
     private boolean isSubsequenceAfterRemoval(
             String s, String p, int[] removable, int k) {
