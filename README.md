@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Shantanum0701/leetcode/tree/master/1854-maximum-population-year) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Shantanum0701/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1920-build-array-from-permutation](https://github.com/Shantanum0701/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shantanum0701/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Shantanum0701/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Shantanum0701/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Shantanum0701/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/Shantanum0701/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1859-sorting-the-sentence](https://github.com/Shantanum0701/leetcode/tree/master/1859-sorting-the-sentence) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Shantanum0701/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shantanum0701/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/Shantanum0701/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1898-maximum-number-of-removable-characters](https://github.com/Shantanum0701/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 ## Prefix Sum
 |  |
 | ------- |
