@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Shantanum0701/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Shantanum0701/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Shantanum0701/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Shantanum0701/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Shantanum0701/leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shantanum0701/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Shantanum0701/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1859-sorting-the-sentence](https://github.com/Shantanum0701/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Shantanum0701/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
