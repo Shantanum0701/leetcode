@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shantanum0701/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Shantanum0701/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Shantanum0701/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1813-sentence-similarity-iii](https://github.com/Shantanum0701/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1859-sorting-the-sentence](https://github.com/Shantanum0701/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1898-maximum-number-of-removable-characters](https://github.com/Shantanum0701/leetcode/tree/master/1898-maximum-number-of-removable-characters) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Shantanum0701/leetcode/tree/master/1013-fibonacci-number) |
 | [1037-valid-boomerang](https://github.com/Shantanum0701/leetcode/tree/master/1037-valid-boomerang) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shantanum0701/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/Shantanum0701/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
