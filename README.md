@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantanum0701/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Shantanum0701/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantanum0701/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanum0701/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shantanum0701/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shantanum0701/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shantanum0701/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shantanum0701/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantanum0701/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantanum0701/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shantanum0701/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shantanum0701/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanum0701/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantanum0701/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanum0701/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shantanum0701/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shantanum0701/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Shantanum0701/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Shantanum0701/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shantanum0701/leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantanum0701/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantanum0701/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shantanum0701/leetcode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Shantanum0701/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Shantanum0701/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Shantanum0701/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Shantanum0701/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shantanum0701/leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanum0701/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shantanum0701/leetcode/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/Shantanum0701/leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
