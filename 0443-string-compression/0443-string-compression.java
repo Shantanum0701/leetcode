@@ -1,29 +1,29 @@
 class Solution {
     public int compress(char[] chars) {
-        int write = 0;  // position to write compressed chars
-        int read = 0;   // position to read original chars
-        
-        while (read < chars.length) {
-            char currentChar = chars[read];
+        StringBuilder sb = new StringBuilder();
+        int n = chars.length;
+
+        int i = 0;
+        while (i < n) {
+            char current = chars[i];
             int count = 0;
 
-            // Count consecutive characters
-            while (read < chars.length && chars[read] == currentChar) {
-                read++;
+            while (i < n && chars[i] == current) {
+                i++;
                 count++;
             }
 
-            // Write the character
-            chars[write++] = currentChar;
-
-            // If count > 1, write its digits
+            sb.append(current);
             if (count > 1) {
-                for (char c : String.valueOf(count).toCharArray()) {
-                    chars[write++] = c;
-                }
+                sb.append(count);
             }
         }
 
-        return write; // new length
+        // copy back
+        for (int j = 0; j < sb.length(); j++) {
+            chars[j] = sb.charAt(j);
+        }
+
+        return sb.length();
     }
 }
