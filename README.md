@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Shantanum0701/leetcode/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shantanum0701/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shantanum0701/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/Shantanum0701/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0848-shifting-letters](https://github.com/Shantanum0701/leetcode/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanum0701/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shantanum0701/leetcode/tree/master/0867-transpose-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shantanum0701/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Shantanum0701/leetcode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Shantanum0701/leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Shantanum0701/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/Shantanum0701/leetcode/tree/master/0888-fair-candy-swap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shantanum0701/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Shantanum0701/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shantanum0701/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Shantanum0701/leetcode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Shantanum0701/leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Shantanum0701/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/Shantanum0701/leetcode/tree/master/0812-rotate-string) |
 | [0848-shifting-letters](https://github.com/Shantanum0701/leetcode/tree/master/0848-shifting-letters) |
 | [0917-reverse-only-letters](https://github.com/Shantanum0701/leetcode/tree/master/0917-reverse-only-letters) |
