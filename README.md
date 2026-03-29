@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shantanum0701/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shantanum0701/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Shantanum0701/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
