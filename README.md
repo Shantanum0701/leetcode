@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Shantanum0701/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shantanum0701/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Shantanum0701/leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shantanum0701/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Shantanum0701/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/Shantanum0701/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Shantanum0701/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shantanum0701/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Shantanum0701/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Shantanum0701/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shantanum0701/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
