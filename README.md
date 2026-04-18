@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shantanum0701/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Shantanum0701/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
