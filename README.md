@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shantanum0701/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shantanum0701/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0804-unique-morse-code-words](https://github.com/Shantanum0701/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Shantanum0701/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0848-shifting-letters](https://github.com/Shantanum0701/leetcode/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanum0701/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shantanum0701/leetcode/tree/master/0867-transpose-matrix) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Shantanum0701/leetcode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Shantanum0701/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Shantanum0701/leetcode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Shantanum0701/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/Shantanum0701/leetcode/tree/master/0812-rotate-string) |
 | [0848-shifting-letters](https://github.com/Shantanum0701/leetcode/tree/master/0848-shifting-letters) |
 | [0917-reverse-only-letters](https://github.com/Shantanum0701/leetcode/tree/master/0917-reverse-only-letters) |
