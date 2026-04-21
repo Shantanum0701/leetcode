@@ -5,7 +5,7 @@ class Solution {
         int n = g.length, m = s.length, i = 0, j = 0;
 
         while (i < m && j < n) {
-            if (g[j] <= s[i]) j++;  
+            if (g[j] <= s[i]) j++;  // Assign cookie to child
             i++;  
         }
 
