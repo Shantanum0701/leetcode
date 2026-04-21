@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shantanum0701/leetcode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Shantanum0701/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Shantanum0701/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanum0701/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shantanum0701/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shantanum0701/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shantanum0701/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Shantanum0701/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shantanum0701/leetcode/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/Shantanum0701/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanum0701/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shantanum0701/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shantanum0701/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Shantanum0701/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanum0701/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0848-shifting-letters](https://github.com/Shantanum0701/leetcode/tree/master/0848-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shantanum0701/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shantanum0701/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Shantanum0701/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Shantanum0701/leetcode/tree/master/0441-arranging-coins) |
+| [0523-continuous-subarray-sum](https://github.com/Shantanum0701/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanum0701/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Shantanum0701/leetcode/tree/master/0754-reach-a-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Shantanum0701/leetcode/tree/master/0976-largest-perimeter-triangle) |
