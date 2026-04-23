@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Shantanum0701/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shantanum0701/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Shantanum0701/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shantanum0701/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Stack
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shantanum0701/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Shantanum0701/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1859-sorting-the-sentence](https://github.com/Shantanum0701/leetcode/tree/master/1859-sorting-the-sentence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Merge Sort
 |  |
 | ------- |
