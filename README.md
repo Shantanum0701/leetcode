@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
+| [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
+| [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Stack
 |  |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shantanum0701/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/Shantanum0701/leetcode/tree/master/1854-maximum-population-year) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
+| [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 ## Union Find
 |  |
 | ------- |
