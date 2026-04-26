@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shantanum0701/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shantanum0701/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Stack
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shantanum0701/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Shantanum0701/leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Shantanum0701/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shantanum0701/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Shantanum0701/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shantanum0701/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
