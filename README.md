@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shantanum0701/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shantanum0701/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shantanum0701/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shantanum0701/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Shantanum0701/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanum0701/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shantanum0701/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shantanum0701/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shantanum0701/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Shantanum0701/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/Shantanum0701/leetcode/tree/master/1854-maximum-population-year) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shantanum0701/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Shantanum0701/leetcode/tree/master/3046-split-the-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/Shantanum0701/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 ## Union Find
